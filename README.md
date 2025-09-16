@@ -1,5 +1,5 @@
-# Calculator Desktop App for Linux (Ubuntu)
-### This is a Calculator Desktop Application built for Linux (Ubuntu).  
+# Calculator Desktop App for Windows
+### This is a Calculator Desktop Application built for Windows.  
 ## Resource Compilation  
 After every change to the resource file, recompile it using the following command:  
 'pyrcc5 resources.qrc -o rc_resources.py'  
