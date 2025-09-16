@@ -7,6 +7,8 @@ After every change to the resource file, recompile it using the following comman
 To create the desktop application executable, run:  
 `pyinstaller --noconfirm --onefile --windowed --icon=icon.ico main.py`  
 This will bundle the app into a standalone executable.  
-
-- -- **pyinstaller --noconfirm --onefile --windowed --icon=icon.ico --hidden-import=PyQt5 main.py**
-
+## Installing the App (.exe Installer)
+1. Download the installer file: ***calculator.exe***
+2. Install the application by double-clicking the ***calculator.exe*** file and follow the installation instructions.
+## Uninstalling the App
+To remove the calculator application
